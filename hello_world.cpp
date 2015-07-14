@@ -9,5 +9,6 @@ main ()
 {
 
 	std::cout<<"加油啊"<<std::endl;
+	std::cout<<"我会的，一定会加油的"<<std::endl;
     return 0;
 }
