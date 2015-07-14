@@ -34,6 +34,11 @@ viewerPsycho (pcl::visualization::PCLVisualizer& viewer)
 int 
 main ()
 {
+
+	// First edit
+	//
+	//
+	//
     pcl::PointCloud<pcl::PointXYZRGBA>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZRGBA>);
     pcl::io::loadPCDFile ("my_point_cloud.pcd", *cloud);
     
